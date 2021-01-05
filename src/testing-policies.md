@@ -1,7 +1,7 @@
 # Testing Policies
 
 Chimera Policies are regular programs built as Wasm modules. Hence policies can
-be testes using the regular testing capabilities offered by the programming
+be tested using the regular testing capabilities offered by the programming
 language of your choice.
 
 The reference policies we created do that extensively, as seen here:
